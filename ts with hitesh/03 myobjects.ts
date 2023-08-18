@@ -6,7 +6,7 @@ const User = {
 // first method
 function createUser ({
     name : string,
-    isPaid : boolean
+    isPaid :boolean
 }) {
 
 }
