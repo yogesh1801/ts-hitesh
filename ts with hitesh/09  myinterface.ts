@@ -13,7 +13,7 @@ interface User {
 
 // like type and classes
 
-// interfaces can be reopned
+// interfaces can be reopened
 
 interface User {
     githubToken : string
